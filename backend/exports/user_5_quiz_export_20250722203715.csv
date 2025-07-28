@@ -1,0 +1,4 @@
+quiz_id,quiz_name,chapter_id,chapter_name,subject_name,date_of_quiz,score_obtained,remarks
+22,Subtract,32,Subraction,Maths,2025-06-25,1/2,Needs Improvement
+16,Java Looping,51,Java Loops,Java,2025-07-03,1/1,Excellent
+23,Python Looping,11,Loops,Python,2025-07-25,1/2,Needs Improvement

@@ -1,0 +1,7 @@
+quiz_id,quiz_name,chapter_id,chapter_name,subject_name,date_of_quiz,score_obtained,remarks
+2,My first quiz,12,Basics of Python ,Python,2025-03-31,1/1,Excellent
+6,chmaaa dhan,41,Computer Basics,CT,2025-03-31,2/3,Needs Improvement
+3,Life quiz,42,Life Basics,CT,2025-04-09,1/1,Excellent
+16,Java Looping,51,Java Loops,Java,2025-07-03,1/1,Excellent
+22,Subtract,32,Subraction,Maths,2025-06-25,2/2,Excellent
+23,Python Looping,11,Loops,Python,2025-07-25,0/2,Poor
